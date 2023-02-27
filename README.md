@@ -3,5 +3,7 @@
 Commands to run:
 
 conda activate tp 
+
 cd black fungus
+
 python app.py 
