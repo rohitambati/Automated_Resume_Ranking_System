@@ -1,9 +1,12 @@
 # Automated_Resume_Ranking_System
 
-Commands to run:
+Developed GUI ranking candidates for prescribed job description using cosine similarity and natural language processing.
 
-conda activate tp 
-
-cd black fungus
-
-python app.py 
+### Libraries Used:
+- flask
+- sqlalchemy
+- nltk
+- sklearn
+- preprocessing
+- textract
+- text_processing
